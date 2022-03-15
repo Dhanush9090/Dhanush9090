@@ -30,7 +30,12 @@
 <br /> <br />
 
 
-[![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush9090&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/Dhanush9090)
+<!-- [![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush9090&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/Dhanush9090) -->
+
+![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanush9090&show_icons=true&theme=algolia&hide_border=true?count_private=true)
 
 
-[![Dhanush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush9090&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact)](https://github.com/Dhanush9090)
+<!-- [![Dhanush's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush9090&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&layout=compact)](https://github.com/Dhanush9090) -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanush9090&layout=compact&theme=algolia&hide_border=true)](https://github.com/Dhanush9090/github-readme-stats)
