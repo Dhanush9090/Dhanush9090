@@ -1,13 +1,12 @@
 
 
-## Hi there, I'm Dhanush !
+## Heyyy there, I'm Dhanush !
 
 ### Tech and automobile enthusiast!!
 
 - 🔭 BTech Freshman in Information Technology at VIT Vellore! 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn Web Development
-- ⚡ Fun fact: I'm tryna make a Github profile atm
 
 ### Connect with me:
 
@@ -19,9 +18,19 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://html.com)
 
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://www.css3.com)
+
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://www.javascript.com)
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org)
+
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />](https://www.cprogramming.com)
+
+[<img align="left" alt="Cplusplus" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />](https://isocpp.org)
+
+[<img align="left" alt="Swift" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" style="padding-right:10px;" />](https://www.swift.org)
+
+[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" style="padding-right:10px;" />](https://www.r-project.org)
 
 [<img align="left" alt="Matlab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />](https://in.mathworks.com/products/matlab.html)
 
