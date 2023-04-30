@@ -6,7 +6,7 @@
 
 - 🔭 BTech Freshman in Information Technology at VIT Vellore! 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn Web Development
+- 🥅 2023 Goals: Learn Web Development
 - ⚡ Fun fact: I'm tryna make a Github profile atm
 
 ### Connect with me:
